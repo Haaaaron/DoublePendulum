@@ -1,6 +1,7 @@
 DoublePendulum
 ===============
-^python3 doublePendulum.py^
+
+`python3 doublePendulum.py`
 
 A simple double pendulum approximated for small oscillations
 
